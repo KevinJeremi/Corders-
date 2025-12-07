@@ -1,8 +1,8 @@
-# 🔐 SECURE EYE - CCTV Analytics Dashboard
+# 🔐 Corders - CCTV Analytics Dashboard
 
 <div align="center">
 
-![SECURE EYE Logo](public/logo.jpg)
+![Corders Logo](public/logo.jpg)
 
 **Real-time CCTV Monitoring with AI-Powered People Detection**
 
@@ -17,7 +17,7 @@
 
 ## 📋 Overview
 
-**SECURE EYE** adalah dashboard monitoring CCTV canggih yang dilengkapi dengan deteksi orang menggunakan AI. Aplikasi ini memungkinkan monitoring real-time dari berbagai sumber video (video lokal dan live stream YouTube) dengan analisis otomatis menggunakan Google Cloud Vision API.
+**Corders** adalah dashboard monitoring CCTV canggih yang dilengkapi dengan deteksi orang menggunakan AI. Aplikasi ini memungkinkan monitoring real-time dari berbagai sumber video (video lokal dan live stream YouTube) dengan analisis otomatis menggunakan Google Cloud Vision API.
 
 ### ✨ Fitur Utama
 

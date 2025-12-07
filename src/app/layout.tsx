@@ -6,7 +6,7 @@ import { Header } from "@/components/layout/Header";
 import { Providers } from "./providers";
 
 export const metadata: Metadata = {
-  title: "CCTV Analytics Dashboard",
+  title: "Corders",
   description: "Advanced surveillance monitoring system",
 };
 
