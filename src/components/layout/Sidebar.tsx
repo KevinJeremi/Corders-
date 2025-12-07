@@ -18,8 +18,8 @@ export function Sidebar() {
     return (
         <div className="glass h-full w-64 flex flex-col border-r border-[#ffffff10] fixed left-0 top-0">
             <div className="p-6 flex items-center gap-2 text-primary neon-text">
-                <img src="/logo.jpg" alt="SECURE EYE Logo" className="w-10 h-10 object-contain rounded-lg drop-shadow-[0_0_10px_rgba(0,255,148,0.5)]" />
-                <span className="text-xl font-bold tracking-wider">SECURE<span className="text-white">EYE</span></span>
+                <img src="/logo.jpg" alt="Corders Logo" className="w-10 h-10 object-contain rounded-lg drop-shadow-[0_0_10px_rgba(0,255,148,0.5)]" />
+                <span className="text-xl font-bold tracking-wider">C<span className="text-white">orders</span></span>
             </div>
 
             <nav className="flex-1 px-4 py-8 space-y-2">
